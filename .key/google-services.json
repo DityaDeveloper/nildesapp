@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52052423413",
+    "project_id": "nildesapps",
+    "storage_bucket": "nildesapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52052423413:android:c4f1216200e13f17f6cbbc",
+        "android_client_info": {
+          "package_name": "com.example.nildesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52052423413-lrtmtif06ck9m84sadtjt8bi07jat80f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_wcGp_e52Av9LQetwqAgBdNdngv8FNOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52052423413-lrtmtif06ck9m84sadtjt8bi07jat80f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
